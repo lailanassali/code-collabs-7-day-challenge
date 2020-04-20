@@ -1,4 +1,4 @@
-# Code Collabs 7 day Challenge
+# Code Collabs 7 Day Challenge
 <p align="center">
   <img src="images/cover.jpg" width=60% alt="Gitter">
 </p>
